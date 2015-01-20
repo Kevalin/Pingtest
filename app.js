@@ -14,7 +14,7 @@ var getTime = function(){
 }
 
 var tranResult = function(result){
-    if (parseInt(result) >= 30){
+    if (parseInt(result) >= conf.options.threshold){
         return "异常"
     }
     else {
