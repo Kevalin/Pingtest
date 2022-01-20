@@ -1,5 +1,5 @@
 # Pingtest
-This tool is used for checking the status of network that the main use of linux Ping command.
+This tool is used for checking the status of network by linux Ping command.
 
 - config.js
 ```js
